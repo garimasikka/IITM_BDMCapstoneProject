@@ -50,4 +50,4 @@ Here is an overview of the submission phases and their respective evaluation cri
 - Evaluated for 100 marks, scaled down to 20
 - Cumulative score of 50/100 needed to pass the course
 
-For further details, please refer to the respective project documents in the "Submitted data" folder.
+For further details, please refer to the respective project documents in the "BDM Capstone Project Submitted Files" folder.
